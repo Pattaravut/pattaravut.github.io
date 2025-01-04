@@ -20,4 +20,4 @@
 |-----------------------|--------------------------------|
 | 🩻 **Media**          | [media](media.md)            |
 | 🎄 Christmas & New Year          | [E-card](ecard.md)            |
-| 💡 Validityr        | [Validity](Validity.md)            |
+| 💡 Validity       | [Validity](Validity.md)            |
