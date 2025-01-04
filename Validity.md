@@ -3,7 +3,7 @@
 ---
 
 ## **Validity**
- -Validity is the extent to which data aligns with the predefined business rules and falls within acceptable formats and ranges. It's about whether the data is correct and acceptable for its intended use. For instance, a ZIP code is valid if it contains the right number of characters for a specific region. 
+ - Validity is the extent to which data aligns with the predefined business rules and falls within acceptable formats and ranges. It's about whether the data is correct and acceptable for its intended use. For instance, a ZIP code is valid if it contains the right number of characters for a specific region. 
   The implementation of business rules helps evaluate data validity. While invalid data can impede data completeness, setting rules to manage or eliminate this data enhances completeness.
 
 ---
