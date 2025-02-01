@@ -1,5 +1,5 @@
 # Security Controls 
 
-unlock iphone
+Unlock iPhone
 
-Location : my iphone 
+Location : my iPhone 
