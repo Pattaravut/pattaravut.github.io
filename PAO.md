@@ -5,4 +5,4 @@
 
 ## Check in 
 
-![pao1](picture/PAO.JPG)
+![PAO](picture/PAO.jpg)
