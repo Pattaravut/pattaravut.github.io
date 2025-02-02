@@ -22,4 +22,4 @@
 | 🎄 Christmas & New Year          | [E-card](ecard.md)            |
 | 💡 Validity       | [Validity](Validity.md)            |
 | 🔒 Security Control     | [Security Control](Security-Control.md)            |
-| 🗳️  PAO      | [Pao election](pao-elections.md)            |
+| 🗳️  Pao-Election      | [Pao election](pao-elections.md)            |
