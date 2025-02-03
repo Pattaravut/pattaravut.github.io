@@ -20,6 +20,6 @@
 |-----------------------|--------------------------------|
 | 🩻 **Media**          | [media](media.md)            |
 | 🎄 Christmas & New Year          | [E-card](ecard.md)            |
-| 💡 Validity       | [Validity](Validity.md)            |
+| 💡 Validity       | [Validity](validity.md)            |
 | 🔒 Security Control     | [Security Control](Security-Control.md)            |
 | 🗳️  Pao-Election      | [Pao election](pao-elections.md)            |
