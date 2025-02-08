@@ -21,5 +21,5 @@
 | 🩻 **Media**          | [media](media.md)            |
 | 🎄 Christmas & New Year          | [E-card](ecard.md)            |
 | 💡 Validity       | [Validity](validity.md)            |
-| 🔒 Security Control     | [Security Control](Security-Control.md)            |
+| 🔒 Security Control     | [Security Control](security-control.md)            |
 | 🗳️  Pao-Election      | [Pao election](pao-elections.md)            |
