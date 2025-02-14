@@ -34,3 +34,12 @@
 ![bg1](picture/bg1.jpg)
 
 ![bg2](picture/bg2.jpg)
+
+## สมาชิกภายในกลุ่ม
+[Pattaravut Sukbot](https://gunqeq.github.io/)
+[Ukrit Johneak](https://gunqeq.github.io/)
+[Kittamaet Rongkham](https://gunqeq.github.io/)
+[Songwut Sudtalai](https://gunqeq.github.io/)
+
+
+
