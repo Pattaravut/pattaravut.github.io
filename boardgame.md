@@ -36,7 +36,7 @@
 ![bg2](picture/bg2.jpg)
 
 ## สมาชิกภายในกลุ่ม
-[Pattaravut Sukbot](https://gunqeq.github.io/)
+[Pattaravut Sukbot](https://pattaravut.github.io/)
 
 [Ukrit Johneak](https://gunqeq.github.io/)
 
