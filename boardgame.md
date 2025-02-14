@@ -40,7 +40,7 @@
 
 [Ukrit Johneak](https://zenogarb.github.io/)
 
-[Kittamaet Rongkham](https://gunqeq.github.io/)
+[Kittamaet Rongkham](ohmykk.github.io/parity-bits)
 
 [Songwut Sudtalai](https://gunqeq.github.io/)
 
