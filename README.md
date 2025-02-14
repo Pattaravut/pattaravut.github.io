@@ -21,6 +21,6 @@
 | 🩻 **Media**          | [media](media.md)            |
 | 🎄 Christmas & New Year          | [E-card](ecard.md)            |
 | 💡 Validity       | [Validity](validity.md)            |
-| 🗳 Board-game    | [Pao election](boardgame.md)            |
+| 🗳 Board-game    | [Board-Game](boardgame.md)            |
 | 🔒 Security Control     | [Security Control](security-control.md)            |
 | 🗳️  Pao-Election      | [Pao election](pao-elections.md)            |
