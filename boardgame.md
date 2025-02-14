@@ -31,4 +31,6 @@
 - 
 - 
 
-![sc](picture/SC.jpg)
+![bg1](picture/bg1.jpg)
+
+![bg2](picture/bg2.jpg)
