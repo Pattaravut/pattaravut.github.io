@@ -38,7 +38,7 @@
 ## สมาชิกภายในกลุ่ม
 [Pattaravut Sukbot](https://pattaravut.github.io/)
 
-[Ukrit Johneak](https://gunqeq.github.io/)
+[Ukrit Johneak](https://zenogarb.github.io/)
 
 [Kittamaet Rongkham](https://gunqeq.github.io/)
 
