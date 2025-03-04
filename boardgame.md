@@ -43,7 +43,7 @@
 
 [Kittamaet Rongkham](https://ohmykk.github.io/)
 
-[Songwut Sudtalai](https://gunqeq.github.io/)
+[Songwut Sudtalai](https://gunqeq.github.io/Board-Game)
 
 [<-Back](README.md)
 
