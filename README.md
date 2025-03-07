@@ -24,4 +24,4 @@
 | 🗳 Board-game    | [Board-Game](boardgame.md)            |
 | 🔒 Security Control     | [Security Control](security-control.md)            |
 | 🗳️  Pao-Election      | [Pao election](pao-elections.md)            |
-| 🤖  security-requirement    | [Pao election](security-requirement.md)           |
+| 🤖  security-requirement    | [security-requirement ](security-requirement.md)           |
