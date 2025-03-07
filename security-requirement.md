@@ -15,6 +15,6 @@ such as the use of SQL escaping to protect against SQL injection.
 
 ### MEMBER
 
-[Songwut Sudtalai](https://gunqeq.github.io/)
+- [Songwut Sudtalai](https://gunqeq.github.io/)
 
 [<--Back](README.md)
