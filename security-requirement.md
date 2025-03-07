@@ -12,3 +12,9 @@ such as the use of SQL escaping to protect against SQL injection.
 
 ### MySelf
 - การป้องกันการแทรกข้อมูล ช่วยป้องกันการโจมตีแบบ SQL Injection และ XSS โดยเปลี่ยนข้อมูลให้เป็นข้อความธรรมดาแทนคำสั่งอันตราย เพื่อป้องกันการแทรกโค้ดที่เป็นอันตรายต่อระบบ
+
+### MEMBER
+
+[Songwut Sudtalai](https://gunqeq.github.io/)
+
+[Back](README.md)
